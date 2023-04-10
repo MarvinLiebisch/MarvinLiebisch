@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Marvin</h1>
 <h3 align="center">An aspiring data scientist from Germany</h3>
 
-- 👨‍💻 All of my projects are available at [MarvinLiebisch.github.io](MarvinLiebisch.github.io)
+- 👨‍💻 All of my projects are pinned below.
 
 - 📫 How to reach me **marvin.liebisch@gmail.com**
 
